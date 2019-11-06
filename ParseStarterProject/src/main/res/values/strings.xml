@@ -13,7 +13,9 @@
     <string name="app_name">EvenTis</string>
 
     <string name="hello_world">Hello World!</string>
-    <string name="action_settings">Settings</string>
+    <string name="action_configuracoes">Configurações </string>
+    <string name="action_sair">Deslogar</string>
+    <string name="action_compartilhar">Compartilhar</string>
     <string name="botao_logar">Logar</string>
     <string name="crie_conta">Primeiro acesso? Cliquei aqui para se cadastrar!</string>
     <string name="botao_cadastro">Cadastrar</string>

@@ -29,6 +29,7 @@
     <color name="bright_foreground_material_light">@android:color/black</color>
     <color name="button_material_dark">#ff5a595b</color>
     <color name="button_material_light">#ffd6d7d7</color>
+    <color name="colorPrimary">#FFEFD5</color>
     <color name="dim_foreground_disabled_material_dark">#80bebebe</color>
     <color name="dim_foreground_disabled_material_light">#80323232</color>
     <color name="dim_foreground_material_dark">#ffbebebe</color>
@@ -190,7 +191,9 @@
     <string name="abc_shareactionprovider_share_with">Share with</string>
     <string name="abc_shareactionprovider_share_with_application">Share with %s</string>
     <string name="abc_toolbar_collapse_description">Collapse</string>
-    <string name="action_settings">Settings</string>
+    <string name="action_compartilhar">Compartilhar</string>
+    <string name="action_configuracoes">Configurações </string>
+    <string name="action_sair">Deslogar</string>
     <string name="app_name">EvenTis</string>
     <string name="botao_cadastro">Cadastrar</string>
     <string name="botao_logar">Logar</string>

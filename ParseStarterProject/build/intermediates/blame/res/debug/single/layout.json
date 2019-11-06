@@ -4,6 +4,10 @@
         "source": "C:\\Users\\infor\\Desktop\\EvenTis\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\layout\\abc_screen_toolbar.xml"
     },
     {
+        "merged": "C:\\Users\\infor\\Desktop\\EvenTis\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\layout\\toolbar.xml",
+        "source": "C:\\Users\\infor\\Desktop\\EvenTis\\ParseStarterProject\\src\\main\\res\\layout\\toolbar.xml"
+    },
+    {
         "merged": "C:\\Users\\infor\\Desktop\\EvenTis\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\layout\\activity_cadastro.xml",
         "source": "C:\\Users\\infor\\Desktop\\EvenTis\\ParseStarterProject\\src\\main\\res\\layout\\activity_cadastro.xml"
     },

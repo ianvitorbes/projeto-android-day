@@ -4,32 +4,45 @@
     api-level="28"
     density="xxhdpi"
     format="7"
-    timestamp="23791476378400"
-    token="-1242248652747422840" >
+    timestamp="9437343502800"
+    token="-1242248652747422840"
+    verifier="COMPATIBLE" >
 
     <task
         name="javac"
-        duration="0" />
+        duration="332" />
     <task
         name="instant-run-dex"
-        duration="0" />
+        duration="426" />
     <task
         name="instant-run-transform"
-        duration="0" />
+        duration="59" />
     <task
         name="verifier"
-        duration="0" />
+        duration="3" />
 
-    <build timestamp="23754015748100" >
+    <artifact
+        location="C:\Users\infor\Desktop\EvenTis\ParseStarterProject\build\intermediates\reload-dex\debug\classes.dex"
+        type="RELOAD_DEX" />
+
+    <build timestamp="8905477120700" >
         <artifact
             location="C:\Users\infor\Desktop\EvenTis\ParseStarterProject\build\outputs\apk\ParseStarterProject-debug.apk"
             type="MAIN" />
     </build>
-    <build timestamp="23773891756400" >
+    <build
+        timestamp="9327702117200"
+        verifier="METHOD_ADDED" >
         <artifact
             location="C:\Users\infor\Desktop\EvenTis\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\5\slice_9\classes.dex"
             type="DEX" />
     </build>
-    <build timestamp="23791476378400" />
+    <build
+        timestamp="9437343502800"
+        verifier="COMPATIBLE" >
+        <artifact
+            location="C:\Users\infor\Desktop\EvenTis\ParseStarterProject\build\intermediates\reload-dex\debug\classes.dex"
+            type="RELOAD_DEX" />
+    </build>
 
 </instant-run>
