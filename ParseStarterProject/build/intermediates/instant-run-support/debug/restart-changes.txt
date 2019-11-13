@@ -1,1 +1,0 @@
-CHANGED,C:\Users\infor\Desktop\EvenTis\ParseStarterProject\build\intermediates\transforms\instantRun\debug\folders\1\5\main\com\parse\starter\Activitys\MainActivity.class

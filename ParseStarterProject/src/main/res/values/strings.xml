@@ -20,4 +20,7 @@
     <string name="crie_conta">Primeiro acesso? Cliquei aqui para se cadastrar!</string>
     <string name="botao_cadastro">Cadastrar</string>
     <string name="fazer_login">Já é cadastrado? Faça o seu login!</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
 </resources>
