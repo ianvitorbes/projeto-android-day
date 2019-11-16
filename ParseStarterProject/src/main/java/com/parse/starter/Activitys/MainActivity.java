@@ -36,6 +36,7 @@ import com.parse.ParseUser;
 import com.parse.SaveCallback;
 import com.parse.SignUpCallback;
 import com.parse.starter.Adapter.TabsAdapter;
+import com.parse.starter.Fragments.HomeFragment;
 import com.parse.starter.R;
 import com.parse.starter.util.SlidingTabLayout;
 
@@ -160,6 +161,11 @@ public class MainActivity extends AppCompatActivity {
 
                         if( e==null ){
                             Toast.makeText(getApplicationContext(), "A imagem foi postada!", Toast.LENGTH_SHORT).show();
+
+                            //Att do feed
+                            TabsAdapter adapterNovo = (TabsAdapter) viewPager.getAdapter();
+                            HomeFragment homeFragmentNovo = (HomeFragment) adapterNovo.getFragment(0);
+                            homeFragmentNovo.atualizaPostagens();
 
                         }else{
                             Toast.makeText(getApplicationContext(), "Erro ao postar, tente novamente", Toast.LENGTH_SHORT).show();
