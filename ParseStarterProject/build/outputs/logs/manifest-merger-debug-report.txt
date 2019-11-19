@@ -1,6 +1,6 @@
 -- Merging decision tree log ---
 manifest
-ADDED from C:\Users\infor\Desktop\EvenTis\ParseStarterProject\src\main\AndroidManifest.xml:9:1-42:12
+ADDED from C:\Users\infor\Desktop\EvenTis\ParseStarterProject\src\main\AndroidManifest.xml:9:1-51:12
 	package
 		ADDED from C:\Users\infor\Desktop\EvenTis\ParseStarterProject\src\main\AndroidManifest.xml:10:5-32
 		INJECTED from C:\Users\infor\Desktop\EvenTis\ParseStarterProject\src\main\AndroidManifest.xml
@@ -22,11 +22,15 @@ ADDED from C:\Users\infor\Desktop\EvenTis\ParseStarterProject\src\main\AndroidMa
 	android:name
 		ADDED from C:\Users\infor\Desktop\EvenTis\ParseStarterProject\src\main\AndroidManifest.xml:13:22-76
 uses-permission#android.permission.READ_EXTERNAL_STORAGE
-ADDED from C:\Users\infor\Desktop\EvenTis\ParseStarterProject\src\main\AndroidManifest.xml:14:5-79
+ADDED from C:\Users\infor\Desktop\EvenTis\ParseStarterProject\src\main\AndroidManifest.xml:14:5-80
 	android:name
 		ADDED from C:\Users\infor\Desktop\EvenTis\ParseStarterProject\src\main\AndroidManifest.xml:14:22-77
 application
-ADDED from C:\Users\infor\Desktop\EvenTis\ParseStarterProject\src\main\AndroidManifest.xml:16:5-40:19
+ADDED from C:\Users\infor\Desktop\EvenTis\ParseStarterProject\src\main\AndroidManifest.xml:16:5-49:19
+MERGED from [com.android.support:appcompat-v7:22.2.1] C:\Users\infor\Desktop\EvenTis\ParseStarterProject\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.2.1\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:23.0.0] C:\Users\infor\Desktop\EvenTis\ParseStarterProject\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:23.0.0] C:\Users\infor\Desktop\EvenTis\ParseStarterProject\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design:22.2.1] C:\Users\infor\Desktop\EvenTis\ParseStarterProject\build\intermediates\exploded-aar\com.android.support\design\22.2.1\AndroidManifest.xml:22:5-20
 MERGED from [com.android.support:appcompat-v7:22.2.1] C:\Users\infor\Desktop\EvenTis\ParseStarterProject\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.2.1\AndroidManifest.xml:22:5-20
 MERGED from [com.android.support:support-v4:23.0.0] C:\Users\infor\Desktop\EvenTis\ParseStarterProject\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.0\AndroidManifest.xml:22:5-20
 MERGED from [com.android.support:support-v4:23.0.0] C:\Users\infor\Desktop\EvenTis\ParseStarterProject\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.0\AndroidManifest.xml:22:5-20
@@ -73,11 +77,31 @@ ADDED from C:\Users\infor\Desktop\EvenTis\ParseStarterProject\src\main\AndroidMa
 	android:name
 		ADDED from C:\Users\infor\Desktop\EvenTis\ParseStarterProject\src\main\AndroidManifest.xml:38:19-57
 activity#com.parse.starter.Activitys.CadastroActivity
-ADDED from C:\Users\infor\Desktop\EvenTis\ParseStarterProject\src\main\AndroidManifest.xml:39:9-73
+ADDED from C:\Users\infor\Desktop\EvenTis\ParseStarterProject\src\main\AndroidManifest.xml:39:9-64
 	android:name
 		ADDED from C:\Users\infor\Desktop\EvenTis\ParseStarterProject\src\main\AndroidManifest.xml:39:19-61
+activity#com.parse.starter.Activitys.FeedUsuariosActivity
+ADDED from C:\Users\infor\Desktop\EvenTis\ParseStarterProject\src\main\AndroidManifest.xml:40:9-48:20
+	android:label
+		ADDED from C:\Users\infor\Desktop\EvenTis\ParseStarterProject\src\main\AndroidManifest.xml:42:13-65
+	android:parentActivityName
+		ADDED from C:\Users\infor\Desktop\EvenTis\ParseStarterProject\src\main\AndroidManifest.xml:43:13-65
+	android:theme
+		ADDED from C:\Users\infor\Desktop\EvenTis\ParseStarterProject\src\main\AndroidManifest.xml:44:13-44
+	android:name
+		ADDED from C:\Users\infor\Desktop\EvenTis\ParseStarterProject\src\main\AndroidManifest.xml:41:13-59
+meta-data#android.support.PARENT_ACTIVITY
+ADDED from C:\Users\infor\Desktop\EvenTis\ParseStarterProject\src\main\AndroidManifest.xml:45:13-47:76
+	android:value
+		ADDED from C:\Users\infor\Desktop\EvenTis\ParseStarterProject\src\main\AndroidManifest.xml:47:17-73
+	android:name
+		ADDED from C:\Users\infor\Desktop\EvenTis\ParseStarterProject\src\main\AndroidManifest.xml:46:17-63
 uses-sdk
 INJECTED from C:\Users\infor\Desktop\EvenTis\ParseStarterProject\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:appcompat-v7:22.2.1] C:\Users\infor\Desktop\EvenTis\ParseStarterProject\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.2.1\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:23.0.0] C:\Users\infor\Desktop\EvenTis\ParseStarterProject\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.0\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:23.0.0] C:\Users\infor\Desktop\EvenTis\ParseStarterProject\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.0\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:design:22.2.1] C:\Users\infor\Desktop\EvenTis\ParseStarterProject\build\intermediates\exploded-aar\com.android.support\design\22.2.1\AndroidManifest.xml:20:5-43
 MERGED from [com.android.support:appcompat-v7:22.2.1] C:\Users\infor\Desktop\EvenTis\ParseStarterProject\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.2.1\AndroidManifest.xml:20:5-43
 MERGED from [com.android.support:support-v4:23.0.0] C:\Users\infor\Desktop\EvenTis\ParseStarterProject\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.0\AndroidManifest.xml:20:5-43
 MERGED from [com.android.support:support-v4:23.0.0] C:\Users\infor\Desktop\EvenTis\ParseStarterProject\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.0\AndroidManifest.xml:20:5-43

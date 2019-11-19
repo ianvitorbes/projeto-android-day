@@ -11,7 +11,7 @@
 
     <uses-permission android:name="android.permission.INTERNET" />
     <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
-    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE"/>
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
 
     <application
         android:name=".StarterApplication"
@@ -36,7 +36,16 @@
             </intent-filter>
         </activity>
         <activity android:name=".Activitys.MainActivity" />
-        <activity android:name=".Activitys.CadastroActivity"></activity>
+        <activity android:name=".Activitys.CadastroActivity" />
+        <activity
+            android:name=".Activitys.FeedUsuariosActivity"
+            android:label="@string/title_activity_feed_usuarios"
+            android:parentActivityName=".Activitys.MainActivity"
+            android:theme="@style/AppTheme">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.parse.starter.Activitys.MainActivity" />
+        </activity>
     </application>
 
 </manifest>

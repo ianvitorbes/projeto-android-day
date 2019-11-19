@@ -59,6 +59,7 @@ public class CadastroActivity extends AppCompatActivity {
         usuario.setEmail(textoEmail.getText().toString() );
         usuario.setPassword(textoSenha.getText().toString());
 
+
         //salvar o usuario
 
         usuario.signUpInBackground(new SignUpCallback() {

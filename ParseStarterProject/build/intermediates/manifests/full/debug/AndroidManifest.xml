@@ -44,6 +44,15 @@
         </activity>
         <activity android:name="com.parse.starter.Activitys.MainActivity" />
         <activity android:name="com.parse.starter.Activitys.CadastroActivity" />
+        <activity
+            android:name="com.parse.starter.Activitys.FeedUsuariosActivity"
+            android:label="@string/title_activity_feed_usuarios"
+            android:parentActivityName="com.parse.starter.Activitys.MainActivity"
+            android:theme="@style/AppTheme" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.parse.starter.Activitys.MainActivity" />
+        </activity>
     </application>
 
 </manifest>
